@@ -2,9 +2,9 @@
 #Date: 26 of may, 2025
 #Statement = Classify a list in negative, neutral and positive
 def sorter_of_numbers(list):
-    positive = []
-    negative = []
-    neutral = []
+    positive = [ ]
+    negative = [ ]
+    neutral = [ ]
     for n in list:
         if n < 0:
             negative.append(n)
