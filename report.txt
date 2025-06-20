@@ -1,0 +1,4 @@
+Your name is: David, your age is: 28, your city is: Bogota and your ocupation or hobby is: Developer.
+Your name is: Julian, your age is: 39, your city is: Ciudad de Mexico and your ocupation or hobby is: Deportist.
+Your name is: Mairy, your age is: 18, your city is: Toledo and your ocupation or hobby is: Play football.
+Your name is: Jorge, your age is: 47, your city is: Pamplona and your ocupation or hobby is: Dance.
